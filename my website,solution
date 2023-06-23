@@ -19,7 +19,7 @@
 <img src="public/my BDY SS.png" height="300" alt="my birthday preview"/>
 <!-- TODO 3: Take screenshots of your project previews and add the images to the images folder -->
 <hr/>
-<a href="./public/about.html">About me</a>
+<a href="about.html">About me</a>
 <a href="./public/contact.html">contact me </a>
 <!-- TODO 4: Add titles/subtitles etc. -->
 <body>
